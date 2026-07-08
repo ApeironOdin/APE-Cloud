@@ -1,11 +1,15 @@
 <div align="center">
 
-![logo](./Branding/A.jpg)
+<img src="./Branding/A.jpg" alt="APE-Cloud Logo" width="250" />
 
-<div align="center">
-    <h3>"There is no end, only extending."</h3>
+<h3>"There is no end, only extending."</h3>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Go Version](https://img.shields.io/badge/Go-1.20+-00ADD8?logo=go)](https://golang.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vuedotjs)](https://vuejs.org/)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python)](https://www.python.org/)
+
 </div>
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Go Version](https://img.shields.io/badge/Go-1.20+-00ADD8?logo=go)](https://golang.org/) [![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vuedotjs)](https://vuejs.org/) [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python)](https://www.python.org/)
 
 
 # APE - Cloud
@@ -66,3 +70,16 @@ APE-Cloud 集成了在局域网下的 网盘服务、图像服务、聊天室服
 图像服务：10.42.0.1.4000
 
 聊天室服务：10.42.0.1.5000
+
+
+
+## 致谢
+
+APE-Cloud 的诞生离不开开源社区的繁荣。本项目参考或集成了以下优秀的开源项目，在此向这些无私奉献的开发者与团队表示最诚挚的感谢：
+
+* **[FileBrowser](https://github.com/filebrowser/filebrowser)** 
+* **[EasyOCR](https://github.com/JaidedAI/EasyOCR)** 
+* **[rembg](https://github.com/danielgatis/rembg)**
+* **[Let's Chat](https://github.com/sdelements/lets-chat)** 
+
+> **Tip:** 我们站在巨人的肩膀上。如果您觉得 APE-Cloud 对您有帮助，也请您移步到上述上游项目的仓库，为他们点亮一颗 ⭐️ Star！

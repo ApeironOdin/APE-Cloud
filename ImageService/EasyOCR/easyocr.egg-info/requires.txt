@@ -1,0 +1,12 @@
+Pillow
+PyYAML
+Shapely
+ninja
+numpy
+opencv-python-headless
+pyclipper
+python-bidi
+scikit-image
+scipy
+torch
+torchvision>=0.5

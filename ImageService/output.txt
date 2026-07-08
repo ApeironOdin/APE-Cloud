@@ -1,0 +1,17 @@
+print'test_method'
+
+def test_methadself):
+
+
+print(self.name)
+
+print('helo helo')
+
+def _say_helloself):
+
+print("hihi")
+
+def say_hi(self):
+Self.name =Demo01
+definitself:
+class Demo01:

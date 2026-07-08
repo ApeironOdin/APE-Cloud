@@ -1,3 +1,6 @@
 venv/
 node_modules/
 dist/
+LetChat/mongo-data/
+LetChat/mongodb-linux*/
+*.tgz
